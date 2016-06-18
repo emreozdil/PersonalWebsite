@@ -1,2 +1,3 @@
-<a href="http://web.itu.edu.tr/ozdile/">PersonalWebsiteWebsite</a>
+<a href="http://web.itu.edu.tr/ozdile/">PersonalWebsite</a>
+
 web.itu.edu.tr/ozdile
